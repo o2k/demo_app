@@ -9,3 +9,4 @@ doc/app
 *.sqp
 *~
 .sass-cache/
+.idea/*

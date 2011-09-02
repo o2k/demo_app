@@ -19,6 +19,7 @@ end
 gem 'jquery-rails'
 gem 'therubyracer'
 gem 'rake'
+gem 'activerecord-postgresql-adapter'
 
 # Use unicorn as the web server
 # gem 'unicorn'
